@@ -1,6 +1,6 @@
 # Jak zrobic przepis pomidorowy/Tomato puree recipe - my first Django project
 
-My first Django web application = simple blog-like website (https://mbm.pythonanywhere.com/) where you can read how to make tomato puree.  
+My first Django web application - simple blog-like website (https://mbm.pythonanywhere.com/) where you can read how to make tomato puree.  
 
 ## Technologies & libraries
 
